@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">SwipeRecyclerView</string>
+
+    <array name="food">
+        <item>饼干</item>
+        <item>碧根果</item>
+        <item>牛油果</item>
+        <item>布丁</item>
+        <item>草莓</item>
+        <item>甜甜圈</item>
+        <item>薯片</item>
+        <item>爆米花</item>
+        <item>面包</item>
+        <item>披萨</item>
+        <item>热狗</item>
+        <item>塔可</item>
+        <item>棒冰</item>
+        <item>蛋黄酥</item>
+        <item>寿司</item>
+        <item>蛋糕</item>
+        <item>马卡龙</item>
+        <item>腰果</item>
+        <item>麻薯</item>
+        <item>开心果</item>
+    </array>
+
+    <array name="icon">
+        <item>@drawable/ic_food_cookie</item>
+        <item>@drawable/ic_food_pecan</item>
+        <item>@drawable/ic_food_avocado</item>
+        <item>@drawable/ic_food_pudding</item>
+        <item>@drawable/ic_food_strawberry</item>
+        <item>@drawable/ic_food_doughnut</item>
+        <item>@drawable/ic_food_chips</item>
+        <item>@drawable/ic_food_popcorn</item>
+        <item>@drawable/ic_food_bread</item>
+        <item>@drawable/ic_food_pizza</item>
+        <item>@drawable/ic_food_hotdog</item>
+        <item>@drawable/ic_food_taco</item>
+        <item>@drawable/ic_food_popsicle</item>
+        <item>@drawable/ic_food_eggyolkcake</item>
+        <item>@drawable/ic_food_sushi</item>
+        <item>@drawable/ic_food_cake</item>
+        <item>@drawable/ic_food_macaron</item>
+        <item>@drawable/ic_food_cashew</item>
+        <item>@drawable/ic_food_mochi</item>
+        <item>@drawable/ic_food_pistachio</item>
+    </array>
+</resources>
